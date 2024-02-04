@@ -1,5 +1,6 @@
 # Census-Income-Predictor
 Task : Whether a person make over 50K a year or not.
+Notebook Link: https://www.kaggle.com/code/raaggeesingh/census-income-dataset-88-accuracy
 
 # 1. What approach I used to solve the task?
 I used the classical Vote Classification algorithm. Vote Classification is a machine learning algortihm which combines multiple machine learning algorithms and then predicts the output based on highest probability of chosen class. 
